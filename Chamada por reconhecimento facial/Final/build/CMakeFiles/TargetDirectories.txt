@@ -1,0 +1,7 @@
+/home/pi/Desktop/Final/build/CMakeFiles/reconhecimento_lib.dir
+/home/pi/Desktop/Final/build/CMakeFiles/MenuPrincipal.dir
+/home/pi/Desktop/Final/build/CMakeFiles/cadastrar_usuario.dir
+/home/pi/Desktop/Final/build/CMakeFiles/SistemaDeChamada.dir
+/home/pi/Desktop/Final/build/CMakeFiles/presencas.dir
+/home/pi/Desktop/Final/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/Final/build/CMakeFiles/rebuild_cache.dir

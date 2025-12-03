@@ -1,0 +1,2 @@
+/usr/bin/ar qc libreconhecimento_lib.a CMakeFiles/reconhecimento_lib.dir/reconhecimento.cpp.o
+/usr/bin/ranlib libreconhecimento_lib.a

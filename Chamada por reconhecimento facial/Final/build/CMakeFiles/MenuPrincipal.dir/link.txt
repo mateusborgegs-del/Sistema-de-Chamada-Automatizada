@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MenuPrincipal.dir/main.cpp.o -o MenuPrincipal 
