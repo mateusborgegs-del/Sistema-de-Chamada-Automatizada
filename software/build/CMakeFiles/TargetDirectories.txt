@@ -1,5 +1,0 @@
-/mnt/c/Users/mathe/Desktop/Projeto_Final_Soe/software/build/CMakeFiles/SistemaDeChamada.dir
-/mnt/c/Users/mathe/Desktop/Projeto_Final_Soe/software/build/CMakeFiles/cadastrar_usuario.dir
-/mnt/c/Users/mathe/Desktop/Projeto_Final_Soe/software/build/CMakeFiles/verificar_reconhecimento.dir
-/mnt/c/Users/mathe/Desktop/Projeto_Final_Soe/software/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/mathe/Desktop/Projeto_Final_Soe/software/build/CMakeFiles/rebuild_cache.dir
